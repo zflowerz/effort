@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/effort/static/css/main.7d52a7b0.css",
+    "main.js": "/effort/static/js/main.7038af86.js",
+    "index.html": "/effort/index.html",
+    "main.7d52a7b0.css.map": "/effort/static/css/main.7d52a7b0.css.map",
+    "main.7038af86.js.map": "/effort/static/js/main.7038af86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d52a7b0.css",
+    "static/js/main.7038af86.js"
+  ]
+}
